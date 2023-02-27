@@ -1,2 +1,0 @@
-# CypressYCAutomation
-YC Project
